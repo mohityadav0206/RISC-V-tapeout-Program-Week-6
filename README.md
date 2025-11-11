@@ -1,7 +1,5 @@
 # RISC-V-tapeout-Program-Week-6
 Welcome to my journey of RISC-V tapeout program. In this program, we learn to make the RISC-V and will be using open source tool i.e Open LANE.
-# RISC-V-tapeout-Program-Week-6
-Lets's Forwarding to the RISC-V , Week 6 is the Physical design workshop where we learn the interactive flow from RTL to GDS.
 
 ### VDI IMAGE
 Firstly download th zipped file of openlane : 
